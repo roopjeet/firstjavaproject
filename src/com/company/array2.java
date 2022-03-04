@@ -26,7 +26,8 @@ public class array2 {
         chars[j]=temp;
         String s1 = Arrays.toString(chars);
         System.out.println("String after swapping is :\n "+s1);
-        System.out.println(noted);
+        System.out.println("noted");
+        System.out.println("feature one");
     }
 }
 
